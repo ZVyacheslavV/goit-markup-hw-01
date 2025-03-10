@@ -1,3 +1,7 @@
+#My inclusions
+.prettierrc.json
+settings.json
+
 # Logs
 logs
 *.log
